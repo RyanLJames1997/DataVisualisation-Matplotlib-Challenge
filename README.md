@@ -24,19 +24,13 @@ The overall goal of this analysis is to generate tables and figures needed for a
 
 This assignment is broken down into the following tasks:
 
-- Prepare the data.
-
-- Generate summary statistics.
-
-- Create bar charts and pie charts.
-
-- Calculate quartiles, find outliers, and create a box plot.
-
-- Create a line plot and a scatter plot.
-
-- Calculate correlation and regression.
-
-- Submit your final analysis.
+(1) Prepare the data.
+(2) Generate summary statistics.
+(3) Create bar charts and pie charts.
+(4) Calculate quartiles, find outliers, and create a box plot.
+(5) Create a line plot and a scatter plot.
+(6) Calculate correlation and regression.
+(7) Submit your final analysis.
 
 ### Repository Structure
 
