@@ -34,7 +34,7 @@ This assignment is broken down into the following tasks:
 
 ### Repository Structure
 
-The Jupyter notebook [`pymaceuticals.ipynb`](  is contained in the root directory
+The Jupyter notebook [`pymaceuticals.ipynb`](https://github.com/RyanLJames1997/DataVisualisation-Matplotlib-Challenge/blob/main/Starter_Code/Pymaceuticals/pymaceuticals_starter.ipynb) is contained in the root directory
 
 `Resources` directory contains the datasets: 
 
