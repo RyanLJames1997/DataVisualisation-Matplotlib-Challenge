@@ -34,7 +34,7 @@ This assignment is broken down into the following tasks:
 
 ### Repository Structure
 
-The Jupyter notebook x is contained in the root directory
+The Jupyter notebook [`pymaceuticals.ipynb`](  is contained in the root directory
 
 `Resources` directory contains the datasets: 
 
