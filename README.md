@@ -2,7 +2,7 @@
 
 Module 05 Challenge: UWA/edx Data Analytics Bootcamp
 
-Github repository at: https://github.com/RyanLJames1997/DataVisualisation-Matplotlib-Challenge.git
+Github repository at: [https://github.com/RyanLJames1997/DataVisualisation-Matplotlib-Challenge.git](https://github.com/RyanLJames1997/DataVisualisation-Matplotlib-Challenge.git)
 
 ## Introduction
 
