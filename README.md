@@ -6,7 +6,7 @@ Github repository at: https://github.com/RyanLJames1997/DataVisualisation-Matplo
 
 ## Introduction
 
-## Scope
+### Scope
 
 In this challenge, we are to apply the foundational learning of Matplotlib, and apply this to a real-world scenario and dataset.
 
