@@ -36,7 +36,7 @@ This assignment is broken down into the following tasks:
 
 The Jupyter notebook [`pymaceuticals.ipynb`](https://github.com/RyanLJames1997/DataVisualisation-Matplotlib-Challenge/blob/main/Starter_Code/Pymaceuticals/pymaceuticals_starter.ipynb) is contained in the root directory
 
-`Resources` directory contains the datasets: 
+`Resources` directory contains the datasets: [`Mouse_metadata.csv`](
 
 ### Dataset
 
